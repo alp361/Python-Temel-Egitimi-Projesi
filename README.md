@@ -10,7 +10,7 @@ git clone https://github.com/alp361/Python-Temel-Egitimi-Projesi.git
 
 ## Usage
 After cloning, open it in Visual Studio Code.
-For Linux:
+* For Linux:
 ```
 cd Python-Temel-Egitimi-Projesi
 code .
